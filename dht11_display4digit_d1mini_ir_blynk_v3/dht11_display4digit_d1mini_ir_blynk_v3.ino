@@ -35,12 +35,12 @@ IRsend irsend(IRPIN);
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "5CKxFEGca2EJz9N2m0fu-C1bMLAwBvqV"; //HomeOffice
+char auth[] = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; //HomeOffice
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Sem sinal";
-char pass[] = "07628702";
+char ssid[] = "xxxxxxxxxxxx";
+char pass[] = "xxxxxxxx";
 
 unsigned long previousMillis = 0;
 const long interval = 2500; //to refresh the display
